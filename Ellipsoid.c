@@ -83,3 +83,16 @@ double plot(int N)
 	fclose(fptr1);
 }
 
+
+
+
+
+
+
+/*****************************OUTPUT**************************************
+
+Evaluation of volume of Ellipsoid using Monte-Carlo method completed.
+Results stored in location 'C:/Users/sahoo/Desktop/Ellipsoid/volume.txt'
+C:\Users\sahoo\Desktop\P342\C projects\Ellipsoid\Debug\Ellipsoid.exe
+*************************************************************************/
+
